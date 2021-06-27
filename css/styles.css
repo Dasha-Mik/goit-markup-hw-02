@@ -74,6 +74,7 @@ body{
 }
 
 .modal-btn{
+    font-family: var(--main-font);
     font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
@@ -190,6 +191,7 @@ footer{
 /*---------------------------------------------------------------PORTFOLIO PAGE--------------------------------------------------------*/
 /*----------------------LIST OF BUTTONS----------------*/
 .btn-list{
+    font-family: var(--main-font);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
